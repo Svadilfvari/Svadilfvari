@@ -65,7 +65,7 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 - Tuned PID controller to maintain **tracking error within ±15 pixels**, with **derivative noise suppressed** using histogram-guided tuning
 ## 📚 Certification
 
-- 📈 Financial Markets – Yale (Coursera)  
+- 📈 [Financial Markets – Yale (Coursera)] (https://coursera.org/verify/94UZGQ8MR7XL) 
 - 📊 [Programmer en R pour la Data Science de A à Z – Udemy](https://ude.my/UC-229c0a69-0468-4a0d-b2e6-63cff6b69943)  
   *Instructor: Amandine Velt*
 
