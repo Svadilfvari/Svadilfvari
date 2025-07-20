@@ -8,7 +8,7 @@
   🇫🇷 Paris &nbsp;|&nbsp; 📫 <a href="mailto:edouardkdavid@gmail.com">edouardkdavid@gmail.com</a> &nbsp;|&nbsp; 
   🌐 <a href="https://www.linkedin.com/in/edouard-david-6b2594197/">LinkedIn</a> &nbsp;|&nbsp; 
   🧠 <a href="https://github.com/Svadilfvari">GitHub</a>&nbsp;|&nbsp; 
-  🚀 Portfolio: [my-portfolio.vercel.app]([https://my-portfolio.vercel.app](https://my-portfolio-navy-one-84.vercel.app/)
+  🚀 <a href="https://my-portfolio.vercel.app](https://my-portfolio-navy-one-84.vercel.app">Portfolio</a>
 </p>
 
 ---
