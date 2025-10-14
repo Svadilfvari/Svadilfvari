@@ -13,12 +13,24 @@
 
 ---
 
-## 👨‍🔬 About Me
+## 🎓 Education & Academic Results
 
-- 🧠 Master's student in **Automation & Robotics** @ Sorbonne Université  
-- 🔬 Research experience @ **University of Tokyo**, **EPFL**, **CentraleSupélec**  
-- 🧑‍💻 Creator of **NeuroInfinity** – BCI robotic arm for virtual reality  
-- 🚀 Passionate about **embedded AI**, **GPU acceleration**, and **AI for healthcare**
+- **Master’s degree — Automation and Robotics: Intelligent Systems Engineering (ISE), Sorbonne Université**  
+  🔗 <a href="https://sciences.sorbonne-universite.fr/en/masters/masters-degree-automation-and-robotics/intelligent-systems-engineering-isi-course">Program page</a>  
+  Final grade **75.7% (15.14/20, with distinction)** · Cohort rank **#5**  
+  Thesis defense **86.5% (17.3/20)** · Defense rank **#2**
+
+- **Bachelor’s degree — Electronics, Electrical Energy, and Automation (EEA), Sorbonne Université**  
+  🔗 <a href="https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-discipline/les-l2-l3-nos-huit-3">Program page</a>  
+  Graduated in the **top 10%** of cohort within the selective **CMI** engineering track
+
+---
+
+## 🏆 Awards & Honors
+
+- 🥇 **First place, Best Poster**, Sorbonne University Robotics MSc Research Showcase (EPFL internship; 80+ projects)  
+- 🥈 **Second place, National "My Project in 5 Minutes" pitch, France** (*NeuroInfinity*)  
+- 🥈 **Second place, Best Promotional Video**, Sorbonne University MSc program (*NeuroInfinity*)
 
 ---
 
