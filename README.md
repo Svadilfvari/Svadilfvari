@@ -33,16 +33,18 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ## 📌 Featured Projects
 
 ### 🧠 NeuroInfinity – BCI-Controlled Robotic Arm in VR  
-🔗 [GitHub](https://github.com/Svadilfvari) | 🛠️ Python, Unity, ROS, ML
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/neuroinfinity">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ Python, Unity, ROS, ML
 
 - Led 6-person team to prototype a brain-controlled robotic arm in VR  
 - Built EEG signal decoder + ROS-based control loop  
 - Achieved stable control using deep learning classifier models  
-
+- **Shortlisted for a 1-year grant (~€100k) by INRIA (final round)**  
+- **Recruited a Scientific Advisor and a Co-founder** to advance product and research roadmap
+  
 ---
 
 ### 🧪 Liver Health AI Tool @ University of Tokyo  
-🔗 [GitHub](https://github.com/Svadilfvari) | 🛠️ CUDA, PyTorch, C++, LLMs
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/hepatotrack">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ CUDA, PyTorch, C++, LLMs
 
 - Reduced liver simulation time from **1h to 4s** via GPU parallelism  
 - Designed ML pipeline (AUC = 0.88) for histology scoring  
@@ -51,7 +53,7 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ---
 
 ### ⚡ Spinal Neuromodulation Optimization (EPFL)  
-🔗 [GitHub](https://github.com/Svadilfvari) | 🛠️ Multi-Task GPs, EMG Processing
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/research">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ Multi-Task GPs, EMG Processing
 
 - Developed controller using multi-task Gaussian Processes  
 - Created **NeuroPulse Analyzer** (10ms latency) for real-time EMG  
