@@ -10,7 +10,14 @@
   🧠 <a href="https://github.com/Svadilfvari">GitHub</a>&nbsp;|&nbsp; 
   🚀 <a href="https://my-portfolio-navy-one-84.vercel.app">Portfolio</a>
 </p>
+---
 
+## 👨‍🔬 About Me
+
+- 🧠 **Master’s degree — Automation & Robotics: Intelligent Systems Engineering (ISE)** @ **Sorbonne Université** — Graduated with final grade **75.7% (15.14/20, with distinction)**, ranked **5th** of cohort; thesis defense **86.5% (17.3/20)**, ranked **2nd**  
+- 🔬 Research experience @ **University of Tokyo**, **EPFL**, **CentraleSupélec**  
+- 🧑‍💻 Creator of **NeuroInfinity** – BCI robotic arm for virtual reality  
+- 🚀 Passionate about **embedded AI**, **GPU acceleration**, and **AI for healthcare**
 ---
 
 ## 🎓 Education & Academic Results
