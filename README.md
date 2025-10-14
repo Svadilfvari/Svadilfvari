@@ -33,7 +33,7 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ## 📌 Featured Projects
 
 ### 🧠 NeuroInfinity – BCI-Controlled Robotic Arm in VR  
-🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/neuroinfinity">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ Python, Unity, ROS, ML
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/neuroinfinity">Project page</a> | 🛠️ Python, Unity, ROS, ML
 
 - Led 6-person team to prototype a brain-controlled robotic arm in VR  
 - Built EEG signal decoder + ROS-based control loop  
@@ -44,7 +44,7 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ---
 
 ### 🧪 Liver Health AI Tool @ University of Tokyo  
-🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/hepatotrack">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ CUDA, PyTorch, C++, LLMs
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/hepatotrack">Project page</a> | 🛠️ CUDA, PyTorch, C++, LLMs
 
 - Reduced liver simulation time from **1h to 4s** via GPU parallelism  
 - Designed ML pipeline (AUC = 0.88) for histology scoring  
@@ -53,13 +53,16 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ---
 
 ### ⚡ Spinal Neuromodulation Optimization (EPFL)  
-🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/research">Project page</a> · <a href="https://github.com/Svadilfvari">GitHub</a> | 🛠️ Multi-Task GPs, EMG Processing
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/research">Project page</a> | 🛠️ Multi-Task GPs, EMG Processing
 
 - Developed controller using multi-task Gaussian Processes  
 - Created **NeuroPulse Analyzer** (10ms latency) for real-time EMG  
 - Outperformed benchmarks: Regret = 1.58 | AUC = 260.7
+
+---
+ 
  ### 🤖 Autonomous Rescue Robot – Multi-Sensor ROS Navigation  
-🛠️ Python, ROS1, OpenCV, PID Control, Embedded Systems
+🔗 <a href="https://github.com/Svadilfvari/Self-Driving-robot-">GitHub repo</a> | 🛠️ Python, ROS1, OpenCV, PID Control, Embedded Systems
 
 - Developed a **ROS-based autonomous system** for the Turtlebot 3 Burger using **multi-sensor fusion** (camera + LIDAR)  
 - Implemented real-time **lane detection** via image processing and dynamic **obstacle avoidance**  
