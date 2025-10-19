@@ -10,6 +10,7 @@
   🧠 <a href="https://github.com/Svadilfvari">GitHub</a>&nbsp;|&nbsp; 
   🚀 <a href="https://my-portfolio-navy-one-84.vercel.app">Portfolio</a>
 </p>
+
 ---
 
 ## 👨‍🔬 About Me
