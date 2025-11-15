@@ -57,9 +57,10 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 
 - Led 6-person team to prototype a brain-controlled robotic arm in VR  
 - Built EEG signal decoder + Unity-based control loop  
-- Achieved stable control using deep learning classifier models  
-- **Shortlisted for a 1-year grant (~€100k) by INRIA (final round)**  
-- **Recruited a Scientific Advisor and a Co-founder** to advance product and research roadmap
+- Results: 100% real-time head-orientation via IMU;
+~65% offline on 2 -class EEG  
+- Attracted **external interest (exploratory follow-on funding talks)**  
+
   
 ---
 
@@ -68,7 +69,7 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 
 - Reduced liver simulation time from **1h to 4s** via GPU parallelism  
 - Engineered a patient classification ML pipeline (AUC = 0.88) and deployed pretrained models for histology scoring  
-- Co-inventor on a University of Tokyo patent application (pending); 1 manuscript under review (Oct 2025), 2nd in preparation
+- **Co-inventor** on a University of Tokyo patent application (pending); 1 manuscript under review (Oct 2025), 2nd in preparation
 
 ---
 
