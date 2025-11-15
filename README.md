@@ -30,7 +30,7 @@
 
 - **Bachelor’s degree — Electronics, Electrical Energy, and Automation (EEA), Sorbonne Université**  
   🔗 <a href="https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-discipline/les-l2-l3-nos-huit-3">Program page</a>  
-  Graduated in the **top 10%** of cohort within the selective **CMI** engineering track
+  Graduated in the **top 20%** of cohort within the selective **CMI** engineering track
 
 ---
 
