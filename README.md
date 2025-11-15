@@ -53,10 +53,10 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 ## 📌 Featured Projects
 
 ### 🧠 NeuroInfinity – BCI-Controlled Robotic Arm in VR  
-🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/neuroinfinity">Project page</a> | 🛠️ Python, Unity, ROS, ML
+🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/neuroinfinity">Project page</a> | 🛠️ Python, Unity, C#, ML
 
 - Led 6-person team to prototype a brain-controlled robotic arm in VR  
-- Built EEG signal decoder + ROS-based control loop  
+- Built EEG signal decoder + Unity-based control loop  
 - Achieved stable control using deep learning classifier models  
 - **Shortlisted for a 1-year grant (~€100k) by INRIA (final round)**  
 - **Recruited a Scientific Advisor and a Co-founder** to advance product and research roadmap
@@ -67,17 +67,18 @@ Tools:          Linux, Git, Docker, OpenCV, MATLAB, GitHub Actions
 🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/hepatotrack">Project page</a> | 🛠️ CUDA, PyTorch, C++, LLMs
 
 - Reduced liver simulation time from **1h to 4s** via GPU parallelism  
-- Designed ML pipeline (AUC = 0.88) for histology scoring  
-- Built clinical insights module powered by LLMs *(patent pending)*  
+- Engineered a patient classification ML pipeline (AUC = 0.88) and deployed pretrained models for histology scoring  
+- Co-inventor on a University of Tokyo patent application (pending); 1 manuscript under review (Oct 2025), 2nd in preparation
 
 ---
 
 ### ⚡ Spinal Neuromodulation Optimization (EPFL)  
 🔗 <a href="https://my-portfolio-navy-one-84.vercel.app/research">Project page</a> | 🛠️ Multi-Task GPs, EMG Processing
 
-- Developed controller using multi-task Gaussian Processes  
-- Created **NeuroPulse Analyzer** (10ms latency) for real-time EMG  
-- Outperformed benchmarks: Regret = 1.58 | AUC = 260.7
+- Designed a closed-loop control strategy for spinal stimulation using multi-task Gaussian Processes to tune current and electrode selection
+- Created **NeuroPulse Analyzer** for real-time EMG analysis   
+- Moodel inference~10 ms, measured end-to-end stim latency ~100 ms .
+
 
 ---
  
